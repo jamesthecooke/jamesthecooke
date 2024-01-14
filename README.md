@@ -1,4 +1,5 @@
 <p align="center">Hi 👋, I'm James Cooke</p>
+<p align="center">Hi 👋, I'm James Cooke</p>
 
 ###
 
@@ -12,12 +13,12 @@
 
 ###
 
-<p align="center">🔭 I’m currently working on a game hub built in react. <br><br>🌱 I’m currently learning the MERN stack<br><br>👯 I’m looking to collaborate on meaningful, full-stack projects<br><br>🤝 I’m looking for help with the best way to learn MERN<br><br>📫 How to reach me jamesjcooke03@gmail.com</p>
+<p align="center">🔭 I’m currently working on a game hub built in react. <br><br>🌱 I’m currently learning the MERN stack<br><br>👯 I’m looking to collaborate on meaningful, full-stack projects<br><br>🤝 I’m looking for help with the best way to learn MERN<br><br>📫 How to reach me<br>----------------<br> email:  jamesjcooke03@gmail.com<br>linkedin: www.linkedin.com/in/james-cooke2003</p>
 
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/james-cooke2003/" target="_blank">
+  <a href="www.linkedin.com/in/james-cooke2003" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
@@ -49,8 +50,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/jamesthecooke/jamesthecooke/output/snake.svg" alt="Snake animation" />
 
