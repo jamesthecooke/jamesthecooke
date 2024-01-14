@@ -1,4 +1,4 @@
-<p align="center">Hi 👋, I'm James Cooke</p>
+
 <p align="center">Hi 👋, I'm James Cooke</p>
 
 ###
