@@ -53,8 +53,14 @@
 
 <picture>
   <source 
-    media="(prefers-color-scheme: dark)">
-<img src="https://raw.githubusercontent.com/jamesthecooke/jamesthecooke/output/snake.svg" alt="Snake animation" />
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/jamesthecooke/jamesthecooke/output/snake.svg"/>
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/jamesthecooke/jamesthecooke/output/snake-light.svg"/>
+  <img src="https://raw.githubusercontent.com/jamesthecooke/jamesthecooke/output/snake.svg" alt="Snake animation" />
+</picture>
 
 ###
 
