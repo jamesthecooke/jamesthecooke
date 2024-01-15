@@ -51,6 +51,9 @@
 
 ###
 
+<picture>
+  <source 
+    media="(prefers-color-scheme: dark)">
 <img src="https://raw.githubusercontent.com/jamesthecooke/jamesthecooke/output/snake.svg" alt="Snake animation" />
 
 ###
