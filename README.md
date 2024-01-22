@@ -68,7 +68,7 @@ Code to launch my career in tech and take on a new set of challenges. I enjoy ge
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jamesthecooke&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=jamesthecooke&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jamesthecooke&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+<!--   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jamesthecooke&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  /> -->
 </div>
 
 ###
