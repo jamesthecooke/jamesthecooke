@@ -9,7 +9,8 @@
 
 ###
 
-<p align="center">I'm a versatile coder who enjoys transforming challenges into elegant solutions. Aside from coding, I love snowboarding, hitting the gym, and immersing myself in the vibrant atmosphere of festivals. This diverse set of interests fuels my creativity and resilience as a coder. Let's not just code; let's create an experience!</p>
+<p align="center">I am a Full Stack Developer who has always enjoyed taking things apart and putting them back together. I decided to put myself through the School of
+Code to launch my career in tech and take on a new set of challenges. I enjoy getting stuck into projects that test my ability and bring my ideas to life. I am changing career as I am wanting to do work I enjoy and find meaningful. I am a passionate learner always looking to improve on all aspects. As well as coding some of the things I enjoy are; Snowboarding, Gym, Festivals.</p>
 
 ###
 
